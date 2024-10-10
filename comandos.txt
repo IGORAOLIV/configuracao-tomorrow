@@ -1,0 +1,40 @@
+git version : Apresenta a versão do git instalada.
+git config --global user.name "Fulano de Tal" : Configura o nome de usuário do GitHub.
+git config --global user.email "fulanoDeTal@email.com" : Configura o email de login no GitHub.
+git init : Cria um repositório local na pasta em que você está.
+git status : Apresenta o estado atual do repositório.
+git add <nome do arquivo> : Adiciona o arquivo em questão.
+git add . : Adiciona todos os arquivos que foram alterados.
+git add *.txt : Adiciona todos os arquivos .txt.
+git rm --cached <nome do arquivo> : Remove um arquivo do staging.
+git rm --cached *.txt : Remove todos os arquivos .txt que foram adicionados.
+git rm -r --cached . : Remove todos os arquivos do staging.
+git commit -m “Mensagem do Commit” : Realiza o commit e cria o pacote de mudanças.
+git remote add origin <url> : Adiciona a URL como referência ao repositório remoto (origin).
+git push -u origin master : Para enviar a linha do tempo para o repositório remoto(origin).
+git clone <url HTTPS> : Clona um repositório por HTTPS.
+git clone <SSH Ref> : Clona um repositório por SSH Ref (É necessário ter cadastrado uma chave SSH no github).
+gh repo clone <nome repositório> : Clona um repositório por GitHub CLI (É necessário ter baixado o GitHub CLI e logar com a sua conta do GitHub).
+git pull : Atualiza o repositório local com o que tem no repositório remoto.
+git push : Atualiza o repositório remoto com o que tem no repositório local
+git pull origin <nome da branch> : Atualiza o repositório local com o que tem em uma branch especifica do repositório remoto.
+git checkout <nome do arquivo> : Restaura o arquivo ao estado da última versão commitada, descartando modificações locais.
+git reset HEAD <nome do arquivo> : Remove o arquivo da área de stage, mas mantém as mudanças no diretório de trabalho.
+git reset HEAD~ : Reverte o repositório para o commit anterior, sem alterar o diretório de trabalho.
+git revert HEAD : Cria um novo commit que desfaz as mudanças do commit mais recente, mantendo o histórico.
+git branch nome-da-branch : Cria uma branch.
+git checkout -b nome-da-branch : Para criar uma branch e entrar nela.
+git push --set-upstream origin nome-da-branch : Para enviar uma branch para o repositório remoto.
+git checkout branch : Se move para o último commit dessa branch.
+git checkout -b branch : Se move para a branch, criando-a caso não exista.
+git checkout <id do commit> : Se move para o commit passado.
+git checkout tags/<nome da tag> : Se move para o commit com aquela tag.
+git merge <nome da branch> : Realiza "merge" da branch em que você está agora com a branch indicada.
+git merge --no-ff <branch> : Cria um commit de merge de um merge fast forward.
+git rebase <branch> : Move ou reaplica os commits da sua branch atual sobre a branch especificada, reorganizando o histórico de commits.
+git merge --abort : Cancele o merge.
+git remote add <apelido> <URL> : Para conectar na branch local com o apelido.
+git remote -v : Lista todos os remotes.
+git remote rm <apelido> : Remove o remote
+git remote rename <antigo> <novo> : Renomeia o apelido do remote.
+git remote set-url <apelido> <URL> : Muda a URL do remote.

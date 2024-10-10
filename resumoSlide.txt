@@ -39,4 +39,5 @@
     17 - Como conectar repositórios (Git => GitHub).
     18 - Comandos para conectar repositórios.
     19 - Comandos para atualizar repositórios conectados.
+    20 - Definição de como clonar um repositório já existente.
     

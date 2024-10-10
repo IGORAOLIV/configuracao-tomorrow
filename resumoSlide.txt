@@ -26,4 +26,5 @@
     4 - Definição de Git.
     5 - Como baixar e instalar o Git.
     6 - Exemplos de serviços de hospedagem do Git.
+    7 - Definição GitHub.
     

@@ -42,4 +42,4 @@
     20 - Definição de como clonar um repositório já existente.
     21 - Comandos para desfazer mudanças no git.
     22 - Conceitos de branches e comandos para sua criação.
-    
+    23 - Comandos para navegar entre as verções no Git.

@@ -25,4 +25,5 @@
     3 - Exemplos de tecnologias de versionamento distribuido e centralizado.
     4 - Definição de Git.
     5 - Como baixar e instalar o Git.
+    6 - Exemplos de serviços de hospedagem do Git.
     

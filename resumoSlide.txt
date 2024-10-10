@@ -1,29 +1,28 @@
 - Resumos Slides -
-
-- Aula 1 - 
-  1 - Titulo.
-  2 => 5 - Ementa do curso.
-  6 - Distribuição das notas.
-  7 - Definição SCM (Software Configuration Management).
-  8 - Definição Software.
-  9 - Motivos de usar o SCM.
-  10 - História em torno do SCM.
-  11 - Conceitos importantes (Item de Configuração, Baseline, Auditoria de Configuração).
-  12 - Impacto do SCM em um projeto.
-  13 - Definição de Controle de Mudanças.
-  14 - Definição de Issue Tracking e os atributos de uma Issue.
-  15 - Define Milestones e Comitê de Controle de Mudança.
-  16 - Mostra que plataformas já integram conceitos de SCM.
-  17 - Imagem exemplificando desvantagens de não utilizar SCM.
-  18 - Teoria de Controle de Versão.
-  19 - Como é aplicado Controle de Versão.
-  20 - Conceitos importantes (Diretório de Trabalho, Repositório e Histórico de Versão).
-  21 - Desvantagens de não fazer Controle de Versão.
-  22 - Slide da atividade da aula 01.
-- Aula 2 -
-  1 - Titulo.
-  2 - Revisão teoria de Versionamento.
-  3 - Exemplos de tecnologias de versionamento distribuido e centralizado.
-  4 - Definição de Git.
-  5 - Como baixar e instalar o Git.
-  
+  - Aula 1 - 
+    1 - Titulo.
+    2 => 5 - Ementa do curso.
+    6 - Distribuição das notas.
+    7 - Definição SCM (Software Configuration Management).
+    8 - Definição Software.
+    9 - Motivos de usar o SCM.
+    10 - História em torno do SCM.
+    11 - Conceitos importantes (Item de Configuração, Baseline, Auditoria de Configuração).
+    12 - Impacto do SCM em um projeto.
+    13 - Definição de Controle de Mudanças.
+    14 - Definição de Issue Tracking e os atributos de uma Issue.
+    15 - Define Milestones e Comitê de Controle de Mudança.
+    16 - Mostra que plataformas já integram conceitos de SCM.
+    17 - Imagem exemplificando desvantagens de não utilizar SCM.
+    18 - Teoria de Controle de Versão.
+    19 - Como é aplicado Controle de Versão.
+    20 - Conceitos importantes (Diretório de Trabalho, Repositório e Histórico de Versão).
+    21 - Desvantagens de não fazer Controle de Versão.
+    22 - Slide da atividade da aula 01.
+  - Aula 2 -
+    1 - Titulo.
+    2 - Revisão teoria de Versionamento.
+    3 - Exemplos de tecnologias de versionamento distribuido e centralizado.
+    4 - Definição de Git.
+    5 - Como baixar e instalar o Git.
+    

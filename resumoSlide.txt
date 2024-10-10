@@ -19,4 +19,5 @@
   19 - Como é aplicado Controle de Versão.
   20 - Conceitos importantes (Diretório de Trabalho, Repositório e Histórico de Versão).
   21 - Desvantagens de não fazer Controle de Versão.
+  22 - Slide da atividade da aula 01.
   

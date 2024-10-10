@@ -32,4 +32,5 @@
     10 - Comandos de configuração de usuário Git.
     11 - Explicação e comandos para criar um novo repositório.
     12 - Como criar novo repositório no GitHub.
+    13 - Comandos para adicionar arquivos ao "staging".
     

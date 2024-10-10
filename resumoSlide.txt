@@ -23,4 +23,5 @@
 - Aula 2 -
   1 - Titulo.
   2 - Revisão teoria de Versionamento.
+  3 - Exemplos de tecnologias de versionamento distribuido e centralizado.
   

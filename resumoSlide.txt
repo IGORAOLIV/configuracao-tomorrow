@@ -22,4 +22,5 @@
   22 - Slide da atividade da aula 01.
 - Aula 2 -
   1 - Titulo.
+  2 - Revisão teoria de Versionamento.
   

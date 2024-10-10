@@ -27,4 +27,5 @@
     5 - Como baixar e instalar o Git.
     6 - Exemplos de serviços de hospedagem do Git.
     7 - Definição GitHub.
+    8 - Mostra como fazer a integração do VScode com o GitHub.
     

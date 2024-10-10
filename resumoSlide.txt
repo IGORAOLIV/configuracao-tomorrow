@@ -35,4 +35,6 @@
     13 - Comandos para adicionar arquivos ao "staging".
     14 - Comandos para remover arquivos adicionados no staging.
     15 - Como criar um commit.
+    16 - Imagens.
+    17 - Como conectar repositórios (Git => GitHub).
     

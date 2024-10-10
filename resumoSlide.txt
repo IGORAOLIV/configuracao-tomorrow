@@ -8,4 +8,6 @@
   8 - Definição Software.
   9 - Motivos de usar o SCM.
   10 - História em torno do SCM.
+  11 - Conceitos importantes (Item de Configuração, Baseline, Auditoria de Configuração).
+  12 - Impacto do SCM em um projeto.
   

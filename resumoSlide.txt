@@ -33,4 +33,5 @@
     11 - Explicação e comandos para criar um novo repositório.
     12 - Como criar novo repositório no GitHub.
     13 - Comandos para adicionar arquivos ao "staging".
+    14 - Comandos para remover arquivos adicionados no staging.
     

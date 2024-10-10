@@ -44,3 +44,4 @@
     22 - Conceitos de branches e comandos para sua criação.
     23 - Comandos para navegar entre as verções no Git.
     24 - Conceito de Merge.
+    25 - Continuação do conceito de merge e comando para efetuar um commit em um merge fast foward.

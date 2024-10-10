@@ -17,4 +17,5 @@
   17 - Imagem exemplificando desvantagens de não utilizar SCM.
   18 - Teoria de Controle de Versão.
   19 - Como é aplicado Controle de Versão.
+  20 - Conceitos importantes (Diretório de Trabalho, Repositório e Histórico de Versão).
   

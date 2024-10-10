@@ -48,3 +48,4 @@
     26 - Definição de rebase.
     27 - Possiveis conflitos ao fazer merge entre brantches.
     28 - Comando para cancelar um merge.
+    29 - Resolvendo conflito de merge escolhendo uma das verções.

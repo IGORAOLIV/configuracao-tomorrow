@@ -49,3 +49,4 @@
     27 - Possiveis conflitos ao fazer merge entre brantches.
     28 - Comando para cancelar um merge.
     29 - Resolvendo conflito de merge escolhendo uma das verções.
+    30 - Resolvendo conflito de merge alterando os arquivos mesclando seus códigos.

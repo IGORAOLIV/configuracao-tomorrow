@@ -18,4 +18,5 @@
   18 - Teoria de Controle de Versão.
   19 - Como é aplicado Controle de Versão.
   20 - Conceitos importantes (Diretório de Trabalho, Repositório e Histórico de Versão).
+  21 - Desvantagens de não fazer Controle de Versão.
   

@@ -29,4 +29,5 @@
     7 - Definição GitHub.
     8 - Mostra como fazer a integração do VScode com o GitHub.
     9 - Explica diferença entre Diretório e Repositório.
+    10 - Comandos de configuração de usuário Git.
     

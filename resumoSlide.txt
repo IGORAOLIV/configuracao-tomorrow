@@ -12,4 +12,5 @@
   12 - Impacto do SCM em um projeto.
   13 - Definição de Controle de Mudanças.
   14 - Definição de Issue Tracking e os atributos de uma Issue.
+  15 - Define Milestones e Comitê de Controle de Mudança.
   

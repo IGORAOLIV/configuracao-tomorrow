@@ -31,4 +31,5 @@
     9 - Explica diferença entre Diretório e Repositório.
     10 - Comandos de configuração de usuário Git.
     11 - Explicação e comandos para criar um novo repositório.
+    12 - Como criar novo repositório no GitHub.
     

@@ -51,3 +51,4 @@
     29 - Resolvendo conflito de merge escolhendo uma das verções.
     30 - Resolvendo conflito de merge alterando os arquivos mesclando seus códigos.
     31 - Conceitos de Merge Request e Pull Request.
+    32 - Boas práticas para commits.

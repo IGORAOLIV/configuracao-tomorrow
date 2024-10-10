@@ -1,0 +1,11 @@
+- Resumos Slides -
+
+- Aula 1 - 
+  1 - Titulo.
+  2 => 5 - Ementa do curso.
+  6 - Distribuição das notas.
+  7 - Definição SCM (Software Configuration Management).
+  8 - Definição Software.
+  9 - Motivos de usar o SCM.
+  10 - História em torno do SCM.
+  

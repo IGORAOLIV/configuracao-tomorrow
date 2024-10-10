@@ -38,4 +38,5 @@
     16 - Imagens.
     17 - Como conectar repositórios (Git => GitHub).
     18 - Comandos para conectar repositórios.
+    19 - Comandos para atualizar repositórios conectados.
     

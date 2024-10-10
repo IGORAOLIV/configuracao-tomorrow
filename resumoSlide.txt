@@ -15,4 +15,5 @@
   15 - Define Milestones e Comitê de Controle de Mudança.
   16 - Mostra que plataformas já integram conceitos de SCM.
   17 - Imagem exemplificando desvantagens de não utilizar SCM.
+  18 - Teoria de Controle de Versão.
   

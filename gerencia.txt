@@ -1,1 +1,3 @@
 - Conceitos Gerencia de Software -
+  1 - Software Configuration Management (SCM):
+    É o processo de controlar e rastrear mudanças em software durante todo o seu ciclo de vida. Ele envolve práticas como versionamento de código, gestão de mudanças e auditorias para garantir que todas as modificações sejam documentadas e aprovadas. O objetivo é manter a integridade e a consistência do software, evitando conflitos e garantindo que todos os envolvidos trabalhem com as versões corretas.

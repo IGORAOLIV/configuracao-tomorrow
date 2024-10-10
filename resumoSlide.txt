@@ -57,4 +57,4 @@
     35 - Conceito de Workflows (Fluxo centralizado e Fluxo com feature branches).
     36 - Conceito de Workflows (Fluxo com bifurcação, "fork").
     37 - Conceito de Git Remote e comandos para utilizar.
-    38 => 39 - Atividade aula 2.
+    38 => 40 - Atividade aula 2.

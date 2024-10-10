@@ -1,0 +1,60 @@
+- Resumos Slides -
+  - Aula 1 - 
+    1 - Titulo.
+    2 => 5 - Ementa do curso.
+    6 - Distribuição das notas.
+    7 - Definição SCM (Software Configuration Management).
+    8 - Definição Software.
+    9 - Motivos de usar o SCM.
+    10 - História em torno do SCM.
+    11 - Conceitos importantes (Item de Configuração, Baseline, Auditoria de Configuração).
+    12 - Impacto do SCM em um projeto.
+    13 - Definição de Controle de Mudanças.
+    14 - Definição de Issue Tracking e os atributos de uma Issue.
+    15 - Define Milestones e Comitê de Controle de Mudança.
+    16 - Mostra que plataformas já integram conceitos de SCM.
+    17 - Imagem exemplificando desvantagens de não utilizar SCM.
+    18 - Teoria de Controle de Versão.
+    19 - Como é aplicado Controle de Versão.
+    20 - Conceitos importantes (Diretório de Trabalho, Repositório e Histórico de Versão).
+    21 - Desvantagens de não fazer Controle de Versão.
+    22 - Slide da atividade da aula 01.
+  - Aula 2 -
+    1 - Titulo.
+    2 - Revisão teoria de Versionamento.
+    3 - Exemplos de tecnologias de versionamento distribuido e centralizado.
+    4 - Definição de Git.
+    5 - Como baixar e instalar o Git.
+    6 - Exemplos de serviços de hospedagem do Git.
+    7 - Definição GitHub.
+    8 - Mostra como fazer a integração do VScode com o GitHub.
+    9 - Explica diferença entre Diretório e Repositório.
+    10 - Comandos de configuração de usuário Git.
+    11 - Explicação e comandos para criar um novo repositório.
+    12 - Como criar novo repositório no GitHub.
+    13 - Comandos para adicionar arquivos ao "staging".
+    14 - Comandos para remover arquivos adicionados no staging.
+    15 - Como criar um commit.
+    16 - Imagens.
+    17 - Como conectar repositórios (Git => GitHub).
+    18 - Comandos para conectar repositórios.
+    19 - Comandos para atualizar repositórios conectados.
+    20 - Definição de como clonar um repositório já existente.
+    21 - Comandos para desfazer mudanças no git.
+    22 - Conceitos de branches e comandos para sua criação.
+    23 - Comandos para navegar entre as verções no Git.
+    24 - Conceito de Merge.
+    25 - Continuação do conceito de merge e comando para efetuar um commit em um merge fast foward.
+    26 - Definição de rebase.
+    27 - Possiveis conflitos ao fazer merge entre brantches.
+    28 - Comando para cancelar um merge.
+    29 - Resolvendo conflito de merge escolhendo uma das verções.
+    30 - Resolvendo conflito de merge alterando os arquivos mesclando seus códigos.
+    31 - Conceitos de Merge Request e Pull Request.
+    32 - Boas práticas para commits.
+    33 - Imagem mostrando a importancia de boas práticas em commits.
+    34 - Mais boas práticas em commits.
+    35 - Conceito de Workflows (Fluxo centralizado e Fluxo com feature branches).
+    36 - Conceito de Workflows (Fluxo com bifurcação, "fork").
+    37 - Conceito de Git Remote e comandos para utilizar.
+    38 => 40 - Atividade aula 2.

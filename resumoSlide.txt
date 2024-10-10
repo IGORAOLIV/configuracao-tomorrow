@@ -20,5 +20,6 @@
   20 - Conceitos importantes (Diretório de Trabalho, Repositório e Histórico de Versão).
   21 - Desvantagens de não fazer Controle de Versão.
   22 - Slide da atividade da aula 01.
-- Aula 2 - 
+- Aula 2 -
+  1 - Titulo.
   

@@ -24,4 +24,5 @@
   1 - Titulo.
   2 - Revisão teoria de Versionamento.
   3 - Exemplos de tecnologias de versionamento distribuido e centralizado.
+  4 - Definição de Git.
   

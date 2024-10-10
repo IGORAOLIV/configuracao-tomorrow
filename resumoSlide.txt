@@ -55,3 +55,4 @@
     33 - Imagem mostrando a importancia de boas práticas em commits.
     34 - Mais boas práticas em commits.
     35 - Conceito de Workflows (Fluxo centralizado e Fluxo com feature branches).
+    36 - Conceito de Workflows (Fluxo com bifurcação, "fork").
